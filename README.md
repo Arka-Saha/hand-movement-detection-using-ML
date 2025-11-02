@@ -1,2 +1,2 @@
 # hand-movement-detection
-Detecting hand movements using IoT and ML
+Detecting hand movements using Robotics and ML
